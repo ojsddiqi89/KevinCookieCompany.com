@@ -2,3 +2,4 @@
 # ignore all .txt files
 
 *.txt.DS_Store
+.DS_Store
